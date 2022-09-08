@@ -2,6 +2,7 @@
 /**
  * main - Prints a string
  *
+ * Description: prints a string 
  * return: 0
  */
 int main(void)
