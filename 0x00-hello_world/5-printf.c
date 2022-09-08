@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - Prints a string
- * Description: code to use print f. 
  */
 int main(void)
 {
