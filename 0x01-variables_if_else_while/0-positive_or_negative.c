@@ -26,6 +26,6 @@ printf("%d is negative\n", n);
 else
 {
 printf("/n");
-}  
+}
 return (0);
 }
