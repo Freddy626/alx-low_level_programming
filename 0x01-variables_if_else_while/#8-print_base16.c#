@@ -2,7 +2,7 @@
 /**
  * main - print hexadecimal
  * Descripition: print hexadecimaal
- * Return: 0
+ *RRReturn: 0
  */
 int main(void)
 {
@@ -16,5 +16,5 @@ for (b = 'a'; b <= 'f'; b++)
 putchar(b);
 }
 putchar('\n');
-return (0);
+ return (0);
 }
