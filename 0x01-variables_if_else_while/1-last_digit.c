@@ -6,7 +6,6 @@
  * Description: puts two integers in one printf statement
  * Return: 0
  */ 
-
 int main(void)
 {
 int n;
