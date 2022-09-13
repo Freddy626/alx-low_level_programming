@@ -1,4 +1,5 @@
 #include "main.h"
+#include <ctype.h>
 /**
  * _islower -lower case alphabet
  * @c: value
@@ -7,7 +8,7 @@
  */
 int _islower(int c)
 {
-if (_islower(c) > 0)
+if (islower(c) > 0)
 return (1);
 else
 return (0);
