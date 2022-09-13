@@ -8,24 +8,19 @@
  */
 int print_sign(int n)
 {
-if (print_sign(n) > 0)
+if (n > 0)
 {
 _putchar('+');
 return (1);
 }
-else if (print_sign(n) == 0)
-{
-_putchar('0');
-return (0);
-}
-else if (print_sign(n) < 0)
+ else if (n < 0)
 {
 _putchar('-');
 return (-1);
 }
 else
 {
-_putchar('\n');
-}
+_putchar('0');
 return (0);
+}
 }
