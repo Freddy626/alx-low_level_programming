@@ -1,7 +1,7 @@
 #include"main.h"
 /**
  * jack_bauer - 24 days
- * 
+ *
  * Return: void
  */
 void jack_bauer(void)
