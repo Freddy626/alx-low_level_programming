@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_numbers - it prints numbers form 0 to 9 
+ * print_numbers - it prints numbers form 0 to 9
  *
  * Return: the multiplication of the two numbers
  */
