@@ -1,5 +1,6 @@
 #ifndef HEADER_FILE
 #define HEADER_FILE
+void print_number(int n);
 int _isupper(int c);
 int _isdigit(int);
 int mul(int, int);
