@@ -1,1 +1,1 @@
-lessons on loop
+more arrays and pointers with strings
